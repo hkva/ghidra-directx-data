@@ -1,6 +1,6 @@
 ![image](/image.png)
 
-## [Download](https://github.com/hkva/ghidra-directx-data/releases)
+## [Download](https://github.com/hkva/ghidra-directx-data/releases/latest)
 
 32/64-bit Ghidra data type libraries for Direct3D8/9/10/11/12
 
